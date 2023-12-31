@@ -1,7 +1,3 @@
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-scikit-learn
-jupyterlab
+pandas~=2.1.4
+jupyterlab~=4.0.10
+yfinance~=0.2.33
